@@ -4,10 +4,9 @@ File upload demo with authentication.
 See screenshots [here](/screenshots).
 
 ## Setup
-1. Create the database `filesend`
-2. Modify `src/config/db.php` based on your DB settings
-3. Run Apache and MySQL Server
-4. Create tables using the following queries
+1. Modify `src/config/db.php` based on your DB settings
+2. Run Apache and MySQL Server
+3. Create tables using the following queries
 
 ```sql
 CREATE TABLE Users (
